@@ -33,24 +33,24 @@ A full-stack E-Commerce web application where users can browse products, add ite
 
 ## 📂 Project Structure
 
-E-Commerce/
-│
-├── frontend/ # User Application (React)
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
-├── admin/ # Admin Dashboard (React)
-│ ├── src/
-│ ├── public/
-│ └── package.json
-│
-├── backend/ # Node/Express Backend
-  ├── config/
-  ├── controllers/
-  ├── models/
-  ├── routes/
-  ├── middleware/
-  └── server.js
+E-Commerce/<br>
+│<br>
+├── frontend/ # User Application (React)<br>
+│ ├── src/<br>
+│ ├── public/<br>
+│ └── package.json<br>
+│<br>
+├── admin/ # Admin Dashboard (React)<br>
+│ ├── src/<br>
+│ ├── public/<br>
+│ └── package.json<br>
+│<br>
+├── backend/ # Node/Express Backend<br>
+  ├── config/<br>
+  ├── controllers/<br>
+  ├── models/<br>
+  ├── routes/<br>
+  ├── middleware/<br>
+  └── server.js<br>
  
 
