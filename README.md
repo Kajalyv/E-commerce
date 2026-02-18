@@ -46,11 +46,11 @@ E-Commerce/<br>
 │ └── package.json<br>
 │<br>
 ├── backend/ # Node/Express Backend<br>
- <tr> ├── config/<br>
- <tr> ├── controllers/<br>
- <tr> ├── models/<br>
-<tr>  ├── routes/<br>
-<tr>  ├── middleware/<br>
-<tr>  └── server.js<br>
+  <tr> ├── config/<br>
+  <tr> ├── controllers/<br>
+  <tr> ├── models/<br>
+ <tr>  ├── routes/<br>
+ <tr>  ├── middleware/<br>
+ <tr>  └── server.js<br>
  
 
