@@ -21,7 +21,7 @@ A full-stack E-Commerce web application where users can browse products, add ite
 ### Frontend
 - React.js
 - Axios
-- CSS / Bootstrap / Tailwind (update if needed)
+- CSS 
 
 ### Backend
 - Node.js
@@ -33,4 +33,24 @@ A full-stack E-Commerce web application where users can browse products, add ite
 
 ## 📂 Project Structure
 
+E-Commerce/
+│
+├── frontend/ # User Application (React)
+│ ├── src/
+│ ├── public/
+│ └── package.json
+│
+├── admin/ # Admin Dashboard (React)
+│ ├── src/
+│ ├── public/
+│ └── package.json
+│
+├── backend/ # Node/Express Backend
+  ├── config/
+  ├── controllers/
+  ├── models/
+  ├── routes/
+  ├── middleware/
+  └── server.js
+ 
 
